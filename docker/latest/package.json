@@ -39,6 +39,13 @@
         "wnr-ui" : "git://github.com/tfatykhov/wnrUI.git",        
 	"tinycolor2":"~1.x",
 	"crypto":"^0.0.3"
+	"wnr-ui" : "git://github.com/tfatykhov/wnrUI.git",
+	"node-red-contrib-globalgetset":"~2.0.3",
+	"node-red-contrib-boolean-logic":"~0.x",
+        "node-red-contrib-bigtimer":"~1.x",
+        "wnr-AddOn" : "git://github.com/scambo00/wnrAddOn.git",
+	"mySchedex" : "git://github.com/scambo00/mySchedex.git",
+	"node-red-contrib-moment":"~2.x"
     },
     "engines": {
         "node": "~4.x"
