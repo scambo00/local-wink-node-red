@@ -39,7 +39,6 @@
         "wnr-ui" : "git://github.com/tfatykhov/wnrUI.git",        
 	"tinycolor2":"~1.x",
 	"crypto":"^0.0.3"
-	"wnr-ui" : "git://github.com/tfatykhov/wnrUI.git",
 	"node-red-contrib-globalgetset":"~2.0.3",
 	"node-red-contrib-boolean-logic":"~0.x",
         "node-red-contrib-bigtimer":"~1.x",
